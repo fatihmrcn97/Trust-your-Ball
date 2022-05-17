@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ab9a7197a4525a4892adeaa4172f4b0, type: 3}
+  m_Name: objectPos
+  m_EditorClassIdentifier: 
+  brokenObjectsPositions:
+  - {x: 4.18182, y: -0.039639473, z: 0.78561866}
+  - {x: 4.18182, y: 0.043745518, z: 0.116517544}
+  - {x: 4.2290087, y: -1.3767152, z: 0.9156008}
+  - {x: 4.18182, y: -1.0202522, z: 0.48020172}
+  - {x: 3.0738418, y: 4.4492846, z: -1.8185422}
+  - {x: 3.073842, y: 5.011286, z: -2.2514951}
